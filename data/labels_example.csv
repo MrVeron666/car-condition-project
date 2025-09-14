@@ -1,0 +1,4 @@
+image,clean,damaged,group_id
+car_0001.jpg,1,0,car_0001
+car_0002.jpg,0,1,car_0002
+car_0003.jpg,0,0,car_0003

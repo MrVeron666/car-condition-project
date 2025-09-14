@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pth
+/tmp.jpg
+models/
+*.log
+.env

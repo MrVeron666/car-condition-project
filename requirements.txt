@@ -1,0 +1,14 @@
+torch>=2.0
+torchvision
+timm
+pandas
+numpy
+scikit-learn
+opencv-python
+Pillow
+streamlit
+albumentations
+albumentations-pytorch
+matplotlib
+scipy
+joblib
